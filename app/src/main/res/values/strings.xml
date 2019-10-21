@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">IM PINK</string>
+    <string name="my_pic">My Profile Pic</string>
+    <string name="my_profile_description">
+        DOB : 1/1/2020
+        \n
+        \n Address: 123, Jalan Pasar, Taman Hijau, 83000 Batu Pahat
+        \n
+        \n
+        \n Hobbies : Sleeping, Eating, Play video/online games
+        \n
+        \n
+        \n 1
+        \n
+        \n
+        \n 2
+        \n
+        \n
+        \n 3
+        \n
+        \n
+        \n 4
+        \n
+        \n
+        \n 5
+
+
+    </string>
+</resources>
